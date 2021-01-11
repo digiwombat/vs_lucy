@@ -2,6 +2,7 @@
 A pair of Visual Studio 2019 themes based on [@juliettepretot/lucy-vscode-theme](https://github.com/juliettepretot/lucy-vscode-theme)
 
 Install with: https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor
+Or grab the release folder and run the vsix. It should work. Probably.
 
 ![lucy_mellow](https://i.imgur.com/nMEPCuM.png)
 
