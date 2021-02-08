@@ -1,6 +1,8 @@
 # vs_lucy
 A pair of Visual Studio 2019 themes based on [@juliettepretot/lucy-vscode-theme](https://github.com/juliettepretot/lucy-vscode-theme)
 
+Also includes a Jetbrains theme for lucy_vivid
+
 Install with: https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.VisualStudio2019ColorThemeEditor
 Or grab the release folder and run the vsix. It should work. Probably.
 
