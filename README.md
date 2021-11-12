@@ -1,5 +1,5 @@
 # vs_lucy
-A pair of Visual Studio 2019 themes based on [@juliettepretot/lucy-vscode-theme](https://github.com/juliettepretot/lucy-vscode-theme)
+A pair of Visual Studio 2019/2022 themes based on [@juliettepretot/lucy-vscode-theme](https://github.com/juliettepretot/lucy-vscode-theme)
 
 Also includes a Jetbrains theme for lucy_vivid
 
